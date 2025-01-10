@@ -1,4 +1,6 @@
 #!/bin/bash
+
+echo " trying the git clone "
 echo "testing the git"
 echo "enter the number"
 read a
